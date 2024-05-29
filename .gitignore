@@ -1,0 +1,9 @@
+apikeys.py
+main.py
+.ipynb_checkpoints
+__pycache__
+node_modules
+.env
+build
+templates
+
